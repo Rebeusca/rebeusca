@@ -1,4 +1,7 @@
 ### Oi! Prazer, eu sou Rebeca Amorim ✨
+Bach. em Ciência da Computação pela Universidade Federal do Ceará.<br>
+Lic. em Matemática pelo Centro Universitário Leonardo da Vinci.
+<br>
 <br>
 <div style="display: inline_block">
   <img align="center" alt="Rebeca-HTML" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
