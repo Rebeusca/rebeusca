@@ -1,8 +1,16 @@
-<h2 align="center">Hi, my name is Rebeca Amorim!</h2>
+<h2 align="left">Hi, my name is Rebeca Amorim!</h2>
 
 ###
 
-<p align="center">👩🏻‍💻 Undergraduate in Computer Science<br>👩🏻‍🏫 Maths Degree</p>
+<h3 align="left">About me:</h3>
+
+###
+
+<p align="left">- Computer Science undergraduate at the Federal University of Ceará (UFC);<br>- Bachelor's degree in Mathematics;  <br>- Full Stack Developer with a strong commitment to continuous learning;  <br>- Passionate about web development and software architecture; <br>- Experienced in teaching and translating technical concepts clearly.</p>
+
+###
+
+<p align="left">Currently focused on deepening my knowledge in backend development.</p>
 
 ###
 
@@ -10,26 +18,39 @@
 
 ###
 
+<p align="left">- 🧠 Languages: Java, Python, TypeScript  <br>- ⚙️ Frameworks: React, Tailwind, Node.js, Spring  <br>- 🛠️ Tools: Git, VSCode, Postman, Ngrok, IntelliJ</p>
+
+###
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rebeusca&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="140" alt="languages graph"  />
 </div>
+
+###
+
+<h3 align="left">A little more about me:</h3>
+
+###
+
+<p align="left">- Cat lover;<br>- In my spare time, I enjoy reading and listening to podcasts;<br>- From 🇧🇷!</p>
+
+###
+
+<h3 align="left">Connect with me on:</h3>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/rebecamorim" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/rebeusca" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Rebeusca/Rebeusca/output/snake.svg" alt="Snake animation" />
+
+###
